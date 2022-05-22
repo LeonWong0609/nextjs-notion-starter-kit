@@ -17,7 +17,6 @@ export default siteConfig({
   description: 'Some of my simple design works.',
 
   // social usernames (optional)
-  instagram: 'wonderboy0609',
   twitter: 'WBoy0609',
   github: 'LeonWong0609',
 
